@@ -6,7 +6,7 @@ authors = ["hugo <hugo.cavan2386@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-flask = "^2.0.2"
+cowpy = "^1.1.4"
 
 [tool.poetry.dev-dependencies]
 

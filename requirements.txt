@@ -1,0 +1,3 @@
+--extra-index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+
+cowpy==1.1.4; python_version >= "3.6"
